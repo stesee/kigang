@@ -1,3 +1,4 @@
+## THIS PROJECT HAS BEEN ABANDONED  
 # kigang
 Automatically exported from code.google.com/p/kigang
 
